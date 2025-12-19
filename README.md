@@ -1,5 +1,5 @@
 # Wordle project
-This project is a Wordle game with an automatic solver implemented in C.
+This project is a Wordle game with an automatic Solver implemented in C.
 
 ## Project Structure 
 - wordlesolver.main.c
