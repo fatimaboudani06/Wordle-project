@@ -23,7 +23,7 @@ The game selects a secret word from the  word list.
   - Correct letter but wrong position (Yellow).
   - Letter not in the word (Gray).
 - The game ends when the word is guessed or the attempts are finished.
-  <img width="266" height="216" alt="image" src="https://github.com/user-attachments/assets/932d30f2-7ade-4585-9827-9fa826c6aaa6" />
+<img width="266" height="216" alt="image" src="https://github.com/user-attachments/assets/932d30f2-7ade-4585-9827-9fa826c6aaa6" />
 
   
   ### Wordle Solver
@@ -33,7 +33,7 @@ The game selects a secret word from the  word list.
 - Incorrect words are eliminated.
 - The solver selects the next word from the remaining candidates.
 - This process continues until the correct word is found.
-  <img width="405" height="172" alt="image" src="https://github.com/user-attachments/assets/8842b361-7ec9-403d-893f-e67e18ff08a8" />
+<img width="405" height="172" alt="image" src="https://github.com/user-attachments/assets/8842b361-7ec9-403d-893f-e67e18ff08a8" />
 
  ## How to Run
 1. Compile the game:
@@ -47,5 +47,5 @@ The game selects a secret word from the  word list.
 
 
   ## Team
--Fatima Al zahra Boudani
--Marwa Boulahbal
+- Fatima Al zahra Boudani
+- Marwa Boulahbal
