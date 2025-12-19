@@ -39,7 +39,7 @@ The game selects a secret word from the  word list.
 1. Compile the game:
    gcc "wordle game.c" -o game
 2. Compile the solver:
-   gcc wordlesolver.main.c -o solver
+   gcc "wordlesolver.main.c" -o solver
 3. Run the game:
    ./game
 4. Run the solver:
