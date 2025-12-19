@@ -24,8 +24,8 @@ The game selects a secret word from the  word list.
   - Letter not in the word(Gray).
 - The game ends when the word is guessed or the attempts are finished.
   ## Wordle Solver
-  The word-solving program begins by selecting a random word from a list.
-  After each attempt, the program filters the list based on feedback.
-  Incorrect words are eliminated.
-  The program then selects the next word from the remaining options.
-  This process continues until the correct word is found.
+The word-solving program begins by selecting a random word from a list.
+After each attempt, the program filters the list based on feedback.
+Incorrect words are eliminated.
+The program then selects the next word from the remaining options.
+This process continues until the correct word is found.
