@@ -1,4 +1,5 @@
-<img width="472" height="107" alt="image" src="https://github.com/user-attachments/assets/f3bf20d7-2982-46aa-9ab2-3a83ddc375c8" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/fb5070ab-e5ae-4329-bd9e-39a39155e97f" />
+
 
 # Wordle project
 This project is a Wordle game with an automatic Solver implemented in C.
