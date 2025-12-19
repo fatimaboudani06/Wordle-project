@@ -21,7 +21,7 @@ The game selects a secret word from the  word list.
 - The game provides feedback for each letter:
   - Correct letter and position (Green).
   - Correct letter but wrong position (Yellow).
-  - Letter not in the word (Gray).
+  - Letter not in the word (Gray (.) ).
 - The game ends when the word is guessed or the attempts are finished.
 <img width="266" height="216" alt="image" src="https://github.com/user-attachments/assets/932d30f2-7ade-4585-9827-9fa826c6aaa6" />
 
