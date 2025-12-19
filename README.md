@@ -8,7 +8,7 @@ This project is a Wordle game with an automatic Solver implemented in C.
 ## Project Structure 
 - wordlesolver.main.c
 - words.txt
-- wordlegame.c
+- wordle game.c
 - Wordle Game and Solver Report.pdf
 
 ## Project Objective
