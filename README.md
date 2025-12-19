@@ -13,3 +13,13 @@ This project is a Wordle game with an automatic Solver implemented in C.
 
 ## Project Objective
 The goal of this project is to implement a Wordle game and design a solver that can guess the secret word by progressively eliminating invalid candidates based on feedback.
+
+# How It Works
+## Wordle Game 
+The game selects a secret word from the  word list.
+- The player enters a guess at each attempt.
+- The game provides feedback for each letter:
+  - Correct letter and position (Green ).
+  - Correct letter but wrong position(Yellow).
+  - Letter not in the word(Gray).
+- The game ends when the word is guessed or the attempts are finished.
