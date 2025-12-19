@@ -47,5 +47,5 @@ The game selects a secret word from the  word list.
 
 
   ## Team
-  -Fatima Al zahra Boudani
-  -Marwa Boulahbal
+-Fatima Al zahra Boudani
+-Marwa Boulahbal
