@@ -28,4 +28,4 @@ The game selects a secret word from the  word list.
 -After each attempt, the program filters the list based on feedback.
 -Incorrect words are eliminated.
 -The program then selects the next word from the remaining options.
--This process continues until the correct word is found.
+-This process continues until the correct word is found. 
