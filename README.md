@@ -21,7 +21,7 @@ The game selects a secret word from the  word list.
 - The game provides feedback for each letter:
   - Correct letter and position (Green).
   - Correct letter but wrong position (Yellow).
-  - Letter not in the word (Gray (.) ).
+  - Letter not in the word (Gray(.)).
 - The game ends when the word is guessed or the attempts are finished.
 <img width="266" height="216" alt="image" src="https://github.com/user-attachments/assets/932d30f2-7ade-4585-9827-9fa826c6aaa6" />
 
@@ -34,6 +34,36 @@ The game selects a secret word from the  word list.
 - The solver selects the next word from the remaining candidates.
 - This process continues until the correct word is found.
 <img width="405" height="172" alt="image" src="https://github.com/user-attachments/assets/8842b361-7ec9-403d-893f-e67e18ff08a8" />
+
+## Example Usage
+### Wordle Game
+- Example of a Wordle game session:
+- === WORDLE ===
+- Attempt 1/6: crane  
+- . Y G . .   crane 
+- Attempt 2/6: slate  
+- G G G G G    slate
+- You WIN! The word was "slate"
+### Wordle Solver
+- Example of the solver in action:
+- === WORDLE ===
+- Attempt 1: suger
+- Feedback: 🟨🟨⬜⬜🟨
+- Remaining words : trust 
+- Attempt 2: trust
+- Feedback: 🟩🟩🟩🟩🟩
+- Congratulations! You found the word .
+- The secret word was: trust
+
+## How to Download
+### Option 1: Download from GitHub
+1. Click on the green "Code" button.
+2. Select "Download ZIP".
+3. Extract the files.
+4. Open a terminal in the project folder.
+5. ### Option 2: Clone the repository
+git clone https://github.com/fatimaboudani06/Wordle-project.git
+cd Wordle-project
 
  ## How to Run
 1. Compile the game:
